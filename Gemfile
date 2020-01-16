@@ -6,6 +6,7 @@ gem 'jquery-rails'
 gem 'sass-rails', "~> 5.0.0"	
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'uglifier'
+gem 'sprockets', '~>3.0'
 gem 'bootsnap'
 
 gem 'sqlite3', '~>1.3.6'
